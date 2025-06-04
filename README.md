@@ -126,7 +126,7 @@ This resource is **FREE** for the community. You may use and modify it as you wi
 If you encounter any issues or have suggestions:
 
 - Open an issue on GitHub
-- Contact me on Discord: [https://discord.gg/dJUBkZss5z]
+- Contact me on Discord: mr6_
 - Leave a comment on the CFX forum post
 
 ---
