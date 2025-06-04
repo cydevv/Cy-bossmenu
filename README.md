@@ -131,7 +131,7 @@ If you encounter any issues or have suggestions:
 
 ---
 
-image(https://cdn.discordapp.com/attachments/1272984475726254271/1379934163565547640/image.png?ex=68420b56&is=6840b9d6&hm=6bd0f76f3b16bf303d499b56c2d8444ebfb1392f819ae1963cf868f687a147d4&)
+![image](https://cdn.discordapp.com/attachments/1272984475726254271/1379934163565547640/image.png?ex=68420b56&is=6840b9d6&hm=6bd0f76f3b16bf303d499b56c2d8444ebfb1392f819ae1963cf868f687a147d4&)
 
   
 ### Enjoy CY Boss Menu and happy roleplaying!
